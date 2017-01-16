@@ -1,0 +1,6 @@
+/home/gabriel/Downloads/x550c/Audio_Realtek_Win7_64_VER6016937
+/home/gabriel/Downloads/x550c/Bluetooth_Ralink_Win7_64_VER1107520
+/home/gabriel/Downloads/x550c/LAN_Realtek_Win7_64_VER706106122012
+/home/gabriel/Downloads/x550c/VGA_Intel_Win7_8_64_VER91710296301
+/home/gabriel/Downloads/x550c/WLAN_QualcommAtheros_Win7_VER920504
+/home/gabriel/Downloads/x550c/WLAN_Ralink_Win7_64_VER50440
